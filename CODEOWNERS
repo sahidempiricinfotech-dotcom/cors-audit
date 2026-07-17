@@ -1,0 +1,6 @@
+/services/          @express-team
+/services/users-api/ @users-team
+/web/               @web-team
+/infra/nginx/       @infra-team
+/infra/nginx/conf.d/ @infra-team
+/infra/nginx/conf.d/legacy/ @platform-team
